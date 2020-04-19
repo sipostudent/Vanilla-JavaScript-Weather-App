@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="assets/img/flock-of-birds-917494.jpg" width="600">
+  <img src="assets/img/js-weather-app.png" width="600">
   <br>
     <br>
   JavaScript - Weather App
