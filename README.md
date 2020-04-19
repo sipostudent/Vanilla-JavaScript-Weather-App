@@ -1,0 +1,1 @@
+"# Vanilla-JavaScript-Weather-App" 
